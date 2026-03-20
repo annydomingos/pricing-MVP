@@ -1,6 +1,6 @@
 # 📦 MVP — Previsão de Volume de Vendas
 
-Sistema inteligente de previsão de demanda e alocação de budget promocional para o setor de bebidas, desenvolvido com agentes de IA usando `pydantic-ai` e interface em `Streamlit`. Desenvolvido em 3h.
+Sistema inteligente de previsão de demanda e alocação de budget promocional para o setor de bebidas, desenvolvido com agentes de IA usando `pydantic-ai` e interface em `Streamlit`. Desenvolvido em 3h em teor acadêmico.
 
 ---
 
